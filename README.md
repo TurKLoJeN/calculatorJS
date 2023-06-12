@@ -1,4 +1,4 @@
-# JavaScript To Do List
+# JavaScript Calculator
 
 I'm learning JavaScript and this is my practice project to further develop my skills. ( Ben JavaScript öğreniyorum ve buda benim deneme projem kendimi daha çok geliştireceğim ) 
 
