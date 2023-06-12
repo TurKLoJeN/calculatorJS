@@ -1,2 +1,7 @@
-# calculatorJS
- Calculator with JS
+# JavaScript Calculator
+
+I'm learning JavaScript and this is my practice project to further develop my skills. ( Ben JavaScript öğreniyorum ve buda benim deneme projem kendimi daha çok geliştireceğim ) 
+
+![s](https://github.com/TurKLoJeN/calculatorJS/assets/32311900/1a786702-1b27-47c8-a281-983f455d59d3)
+
+
